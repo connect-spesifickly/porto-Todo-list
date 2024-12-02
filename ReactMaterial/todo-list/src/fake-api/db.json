@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "id": "16e9",
+      "todoActivity": "Learn DOM, react, component, and props",
+      "isFinished": true
+    },
+    {
+      "id": "b444",
+      "todoActivity": "Learn state use class component",
+      "isFinished": true
+    },
+    {
+      "id": "4cc3",
+      "todoActivity": "Learn Axios and JSON server",
+      "isFinished": true
+    },
+    {
+      "id": "7e1b",
+      "todoActivity": "Learn Lifecycle Method",
+      "isFinished": true
+    },
+    {
+      "id": "6b21",
+      "todoActivity": "Create Todo List Project with Next JS",
+      "isFinished": true
+    },
+    {
+      "id": "c9f9",
+      "todoActivity": "Next Learning",
+      "isFinished": false
+    }
+  ]
+}
